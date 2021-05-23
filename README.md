@@ -8,25 +8,25 @@ Unlike other apps, MemeShareApp is a free and open source.
 It works on Android version(6<Marshmello> and above).
 
 You can download this app from links given below
-[<img src="img/download.png" height="120" width="180">](https://www.mediafire.com/file/fl3683beu3bw1kv/MemeShare.apk/file)   
+[<img src="img/download.png" height="200" width="300">](https://www.mediafire.com/file/fl3683beu3bw1kv/MemeShare.apk/file)   
 
-## About
-This app gives you access to dank memes(Age restriction:12+) which was called from a 
+## About this App
+This app gives you access to dank memes(Age restriction:12+) which was called from an open source url available on Github.
+- Required Volley API to call images from the source.
+- Required glide to Load images and show in the screen.
+- ShareButton - used to share the meme to friends ina nay social media apps and even in sms and Text sharing supported apps Available on phone.
+- Next button - Let's you to the next meme from image world which loads within a seconds
 
 ## Features
-
+MemeShare is a App which supplies laugh, joyous and lovely memories.
 The android app lets you:
-- Connect to yo
+- Join meme family.
+- Millions of generated memes in your hands.
 
 
 ## Screenshots
 
-[<img src="/readmList.png" align="left"
-width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
-[<img src="/readme/Wallabag%20Article%20View.png" align="center"
-width="200"
-    hspace="10" vspace="10">](/readme/Wallabag%20Article%20View.png)
+<img src="img/scrren.png" align="left">
 
 ## Permissions
 
