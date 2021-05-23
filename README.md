@@ -8,7 +8,7 @@ Unlike other apps, MemeShareApp is a free and open source.
 It works on Android version(6<Marshmello> and above).
 
 You can download this app from links given below
-[<img src="img/download.png">]https://www.mediafire.com/file/fl3683beu3bw1kv/MemeShare.apk/file
+[!<img src="img/download.png" height="50" width="200">]https://www.mediafire.com/file/fl3683beu3bw1kv/MemeShare.apk/file
     
 
 ## About
