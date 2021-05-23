@@ -35,7 +35,7 @@ On Android versions prior to Android 6.0, MemeShare requires the following permi
 - Screen on while using the App.
 - Access to all sharing apps present on the phone.
 
-The "Run at startup" permission is only used if Auto-Sync feature is enabled and is not utilised otherwise. The network access permissions are made use of for downloading content. The external storage permission is used to cache article images for viewing offline.
+The network access permissions are made use of for downloading content. The external and internal storage permission is not used so can't be viewd offline.
 
 ## Contributing
 
