@@ -7,7 +7,7 @@ It is a fun App that gives access to millions of generated memes in just single 
 Unlike other apps, MemeShareApp is a free and open source.
 It works on Android version(6<Marshmello> and above).
 
-You can download this app from links given below
+You can download this app from the download program
 [<img src="img/download.png" height="150" width="240">](https://www.mediafire.com/file/fl3683beu3bw1kv/MemeShare.apk/file)   
 
 ## About this App
@@ -15,7 +15,7 @@ This app gives you access to dank memes(Age restriction:12+) which was called fr
 - Required Volley API to call images from the source.
 - Required glide to Load images and show in the screen.
 - ShareButton - used to share the meme to friends ina nay social media apps and even in sms and Text sharing supported apps Available on phone.
-- Next button - Let's you to the next meme from image world which loads within a seconds
+- Next button - Let's you to the next meme from image world which loads within a seconds.
 
 ## Features
 MemeShare is a App which supplies laugh, joyous and lovely memories.
