@@ -5,7 +5,7 @@ width="200" hspace="10" vspace="10">
 
 It is a fun App that gives access to millions of generated memes in just single clicks.
 Unlike other apps, MemeShareApp is a free and open source.
-It works on Android version(10 and above).
+It works on Android version(6<Marshmello> and above).
 
 You can download this app from links given below
 
@@ -21,7 +21,7 @@ The android app lets you:
 
 ## Screenshots
 
-[<img src="/readme/Wallabag%20Reading%20List.png" align="left"
+[<img src="/readmList.png" align="left"
 width="200"
     hspace="10" vspace="10">](/readme/Wallabag%20Reading%20List.png)
 [<img src="/readme/Wallabag%20Article%20View.png" align="center"
