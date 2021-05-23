@@ -13,8 +13,8 @@ You can download this app from the download program
 ## About this App
 This app gives you access to dank memes(Age restriction:12+) which was called from an open source url available on Github.
 - Required Volley API to call images from the source.
-- Required glide to Load images and show in the screen.
-- ShareButton - used to share the meme to friends ina nay social media apps and even in sms and Text sharing supported apps Available on phone.
+- Required glide to load images and show in the screen.
+- ShareButton - used to share the meme to friends in any social media apps and even in SMS and Text sharing supported apps Available on phone.
 - Next button - Let's you to the next meme from image world which loads within a seconds.
 
 ## Features
