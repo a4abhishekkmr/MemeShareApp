@@ -5,6 +5,7 @@ import android.graphics.drawable.Drawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.widget.Toast
 import com.android.volley.Request
 import com.android.volley.Response
 import com.android.volley.toolbox.JsonObjectRequest
@@ -36,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 // Request a string response from the provided URL.
         val jsonObjectRequest = JsonObjectRequest(
             Request.Method.GET, url,null,
-            Response.Listener { response ->
+            { response ->
                 currentImageURL=response.getString("url")
                 Glide.with(this).load(currentImageURL).listener(object : RequestListener<Drawable>{
                     override fun onLoadFailed(
@@ -62,13 +63,14 @@ class MainActivity : AppCompatActivity() {
                 }).into(memeimageView)
 
             },
-            Response.ErrorListener {
+            {
+                Toast.makeText(this, "Something went wrong",Toast.LENGTH_LONG).show()
 
 
             })
 
 // Add the request to the RequestQueue.
-        queue.add(jsonObjectRequest)
+        MySingleton.getInstance(this).addToRequestQueue(jsonObjectRequest)
     }
 
     fun shareMeme(view: View) {
