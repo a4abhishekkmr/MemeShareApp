@@ -40,5 +40,5 @@ The "Run at startup" permission is only used if Auto-Sync feature is enabled and
 ## Contributing
 
 MemeShare app is a free and open source project developed by Abhishek. Any contributions are welcome. Here are a few ways you can help:
- * [To contact me, here is my WhatsApp link](wa.me/+8757304764)
+ * [To contact me, here is my WhatsApp link](wa.me/+918757304764)
  * [Here is my LinkedIn profile](https://www.linkedin.com/in/abhishek-kumar-9ab838167/)
