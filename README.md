@@ -1,7 +1,7 @@
 # MemeShare - Android App  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fa4abhishekkmr%2FMemeShareApp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="/img/logo.png" align="left"
-width="200" hspace="10" vspace="10">
+width="170" hspace="10" vspace="10">
 
 It is a fun App that gives access to millions of generated memes in just single clicks.
 Unlike other apps, MemeShareApp is a free and open source.
