@@ -8,10 +8,12 @@ Unlike other apps, MemeShareApp is a free and open source.
 It works on Android version(6<Marshmello> and above).
 
 You can download this app from links given below
-
+[<img src="img/download.png" align="left"
+width="200" height="20"
+    hspace="10" vspace="10">]
 
 ## About
-
+This app gives you access to dank memes(Age restriction:12+)
 
 ## Features
 
