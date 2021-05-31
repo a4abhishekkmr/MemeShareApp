@@ -1,7 +1,10 @@
 package com.example.memeshareapp
 
+import android.app.DownloadManager
+import android.content.Context
 import android.content.Intent
 import android.graphics.drawable.Drawable
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -84,5 +87,17 @@ class MainActivity : AppCompatActivity() {
     }
     fun nextMeme(view: View) {
         loadMeme()
+    }
+
+    fun downloadMeme(view: View) {
+        //to download our image
+        val request = DownloadManager.Request(Uri.parse(currentImageURL))
+            .setTitle("Meme")
+            .setDescription("Download Meme")
+            .setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED)
+            .setAllowedOverMetered(true)//4G
+
+        val dm= getSystemService(Context.DOWNLOAD_SERVICE) as DownloadManager
+        dm.enqueue(request)
     }
 }
