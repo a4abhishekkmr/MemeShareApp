@@ -46,6 +46,3 @@ The network access permissions are made use of for downloading content. The exte
 MemeShare app is a free and open source project developed by Abhishek. Any contributions are welcome. Here are a few ways you can help:
  * [To contact me, here is my WhatsApp link](https://wa.me/+918757304764)
  * [Here is my LinkedIn profile](https://www.linkedin.com/in/abhishek-kumar-9ab838167/)
-
-  DownLoad the App Now:-(from github)
-  [<img src="img/download.png">](https://github.com/a4abhishekkmr/MemeShareApp/blob/main/MemeShareApp.apk) 
